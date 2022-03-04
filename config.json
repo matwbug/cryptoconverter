@@ -1,0 +1,8 @@
+{
+    "manutencao":0,
+    "suportedCurrencys":{
+        "usd": {"id":"USD","name":"usd", "image":"data/images/dolar-usd.png"},
+        "brl": {"id":"BRL","name":"brl", "image":"data/images/brl.jpg"},
+        "eur": {"id":"EUR","name":"euro", "image":"data/images/euro.webp"}
+    }
+}
